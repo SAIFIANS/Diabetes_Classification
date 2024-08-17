@@ -1,11 +1,6 @@
 pandas
 numpy
 seaborn
-matplolib
+matplotlib
 scikit-learn
-sklearn
-pickle
-warnings
 streamlit
-time
-# -e .
