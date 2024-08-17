@@ -3,6 +3,7 @@ numpy
 seaborn
 matplolib
 scikit-learn
+sklearn
 pickle
 warnings
 streamlit
