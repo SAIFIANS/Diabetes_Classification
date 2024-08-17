@@ -1,6 +1,7 @@
 import numpy as np
 import pickle
 import streamlit as st
+import sklearn
 import warnings
 import time as t
 
