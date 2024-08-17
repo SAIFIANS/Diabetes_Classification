@@ -1,7 +1,7 @@
 pandas
 numpy
 seaborn
-matplolib.pyplot
+matplolib
 scikit-learn
 sklearn
 pickle
