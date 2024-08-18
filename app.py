@@ -36,12 +36,14 @@ def main():
     st.sidebar.title("Project Author Details")
     st.sidebar.markdown("### Project Author :")
     st.sidebar.info("Mohammad Saifi Ansari")
+    st.sidebar.info("+919711619185",icon="📱")
     st.sidebar.markdown("###  Email :")
     st.sidebar.link_button("Gmail", url="mailto: saifiansari17@gmail.com")
     st.sidebar.markdown("###  LinkedIn :")
     st.sidebar.link_button("LinkedIn", url="https://www.linkedin.com/in/mohammad-saifi-ansari/")
     st.sidebar.markdown("###  Github :")
     st.sidebar.link_button("Github", url="https://github.com/SAIFIANS")
+    st.sidebar.link_button("Check out the Complete Github Repo", url="https://github.com/SAIFIANS/Diabetes_Classification")
     # st.sidebar.button()
     
     
