@@ -44,9 +44,7 @@ def main():
     st.sidebar.markdown("###  Github :")
     st.sidebar.link_button("Github", url="https://github.com/SAIFIANS")
     st.sidebar.link_button("Check out the Complete Github Repo", url="https://github.com/SAIFIANS/Diabetes_Classification")
-    # st.sidebar.button()
-    
-    
+
     # getting the input data from the user
     
     
